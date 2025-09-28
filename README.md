@@ -37,7 +37,7 @@ IdentityScanner/
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/your-username/IdentityScanner.git
+   git clone https://github.com/Aarzoo2004/IdentityScanner.git
    cd IdentityScanner
    ```
 
